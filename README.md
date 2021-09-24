@@ -1,3 +1,3 @@
 # HTML-From
-<img src="./project Screenshot.jpg">
+<img src="./project screenshot.jpg">
 Create html from with css.
